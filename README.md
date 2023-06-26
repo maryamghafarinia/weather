@@ -13,6 +13,12 @@
 
 <br/>
 
+## ⚡ Run
+
+- Run using the command `npm start`
+
+<br/>
+
 ## 📙 Used libraries
 
 - `react-js`
